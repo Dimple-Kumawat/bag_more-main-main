@@ -1,10 +1,8 @@
 import 'package:bag_more/splash_screen.dart';
-
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(
-    const MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
