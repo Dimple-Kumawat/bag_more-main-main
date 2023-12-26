@@ -1,0 +1,71 @@
+ {
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "Fira Code",
+    "workbench.colorTheme": "One Monokai",
+    "explorer.confirmDelete": false,
+    "dart.warnWhenEditingFilesInPubCache": false,
+    "redhat.telemetry.enabled": true,
+    "git.autofetch": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "git.enableSmartCommit": true,
+    "editor.inlineSuggest.enabled": true,
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.accessibilitySupport": "off",
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "yaml.schemas": {
+        "file:///Users/shibaprasadkar/.vscode/extensions/atlassian.atlascode-3.0.4/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "terminal.integrated.inheritEnv": false,
+    "git.openRepositoryInParentFolders": "never",
+    "go.toolsManagement.autoUpdate": true,
+    "editor.fontSize": 13,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "git.ignoreRebaseWarning": true,
+    "dart.openDevTools": "flutter",
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/.docx.json"
+            ],
+            "url": "https://raw.githubusercontent.com/Mehdi-Verfaillie/docx/main/src/config/.docx.schema.json"
+        }
+    ],
+    "[php]": {
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    },
+    "remote.SSH.remotePlatform": {
+        "consitomac.site": "linux",
+        "172.105.50.27": "linux"
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "dart": true
+    },
+}
