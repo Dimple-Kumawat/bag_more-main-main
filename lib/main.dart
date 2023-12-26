@@ -1,4 +1,5 @@
 import 'package:bag_more/splash_screen.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {
